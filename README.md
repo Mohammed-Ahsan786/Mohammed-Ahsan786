@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ahsan Ansari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">An undergraduate student of RCOE</h3>
 
 - 🔭 I’m currently working on [IOT based project](https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-)
 
@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **ahsanansari2020@eng.rizvi.edu.in**
 
-- ⚡ Fun fact **I love playing games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

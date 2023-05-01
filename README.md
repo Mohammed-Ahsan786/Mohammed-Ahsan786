@@ -21,5 +21,5 @@
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Mohammed-Ahsan786&label=Profile%20Views&color=0&icon=4&pretty=true" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-ahsan786&" alt="mohammed-ahsan786" /></p>
+<p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-ahsan786&" alt="mohammed-ahsan786" /></p>
 

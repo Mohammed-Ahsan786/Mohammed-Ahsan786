@@ -23,4 +23,13 @@
 </a>
 <p align='center'><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-ahsan786&" alt="mohammed-ahsan786" /></p>
 
-![Snake animation](https://github.com/Mohammed-Ahsan786/Mohammed-Ahsan786/blob/output/github-contribution-grid-snake.svg)
+<a href="https://raw.githubusercontent.com/Mohammed-Ahsan786/Mohammed-Ahsan786/media/github-contribution-grid-snake.svg#gh-dark-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Mohammed-Ahsan786/Mohammed-Ahsan786/media/github-contribution-grid-snake-dark.svg" 
+       alt"Check out my commit history!" />
+  </a>
+  
+  <a href="https://raw.githubusercontent.com/Mohammed-Ahsan786/Mohammed-Ahsan786/media/github-contribution-grid-snake.svg#gh-light-mode-only" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/Mohammed-Ahsan786/Mohammed-Ahsan786/media/github-contribution-grid-snake.svg" 
+         alt"Check out my commit history!" />
+  </a>
+</p>

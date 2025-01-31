@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **ahsanansari2026@eng.rizvi.edu.in**
+
 
 
 <h3 align="left">Connect with me:</h3>

@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Ahsan Ansari</h1>
 <h3 align="center">An undergraduate student</h3>
 
-- 🔭 I’m currently working on [IOT based project](https://github.com/Mohammed-Ahsan786/Automated-Irrigation-System-SEM-4-)
-
-- 🌱 I’m currently learning **Machine Learning**
 
 
 
@@ -11,7 +8,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCCBMkTIAwWFIuLTfCXNNMMg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@MohammedAhsan11" height="30" width="40" /></a>
-  <a href="https://t.me/Hecker110" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="TELEGRAM" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
